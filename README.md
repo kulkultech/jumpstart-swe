@@ -19,15 +19,32 @@ Similar to what I experienced with internship, I want discuss everything I wish 
 
 I design this book to be long enough to cover things to jumpstart your career, and short enough to encourage you to finish the book and apply it in your career. Contact us at [support@kulkul.tech](mailto:support@kulkul.tech) for critics and suggesstion.
 
+# Chapter #0: The Software Engineering Career Path
+
+- In this chapter I want to explore the career path that someone with coding background can take depending on their aspirations.
+
 # Chapter #1: The value of internship
+
+What I want to say here:
+
+- I want to share how important it is to get an internship. Whether you're planning to be successful at your dream company or you want to create your own company, landing internship and how to get the most out of it would be very important to shape your career.
+- One of the intenrship-hack I've done is doing a lot of 1-1 with senior member of the company. Even though you're only an intern, having 1-1 with senior member means you create connection with them as well as learn from their experience.
 
 # Chapter #2: Part-time job and side project
 
+- Sometime in college student want to get real-world experience, but they just about to graduate and it's not possible to get intenrship. In that case what I can give advice to my mentee is to take a part-time job or a side project. This kind of opportunity can help you build experience.
+
 # Chapter #3: Corporate vs. Startup
+
+- In 2010 Indonesia has started an e-commerce revolution where many e-commerce company and tech-based company rised. Tokopedia, Go-Jek and Traveloka was founded in this era. Since then a lot of tech job attracts graduate, and graduate now not only attracted multi-national company but also consider startup as their options to build their career. In this chapter we want to discuss the pro and cons and help the reader think this career options as a set of trade-offs they need to consider on building their career intentionally.
 
 # Chapter #4: Shortcut to your dream job
 
+- In this chapter I want to discuss small little secret of mine to help me get the job I want in my career.
+
 # Chapter #5: Find your champion
+
+- In this chapter I want to discuss with the reader how to get a champion in the company you want to join.
 
 # Chapter #6: Weighing job offer
 
