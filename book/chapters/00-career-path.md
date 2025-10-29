@@ -1,6 +1,6 @@
 # Chapter 0: The Software Engineering Career Path
 
-In this modern era, there are various different paths for an aspiring software engineer. From developing firmware for electric car systems, to building software on the internet or analyzing genomic data. The opportunities are vast and diverse, and understanding these paths early in your career can help you make intentional decisions about your future.
+In this modern era, there are various paths for an aspiring software engineer. From developing firmware for electric car systems, to building software on the internet or analyzing genomic data. The opportunities are vast and diverse, and understanding these paths early in your career can help you make intentional decisions about your future.
 
 When I started my journey in software engineering, I had a narrow view of what a software engineer could do. I thought it was all about building websites or desktop applications. But as I progressed in my career, I discovered a whole universe of possibilities. Each path offers unique challenges, rewards, and opportunities for growth.
 
