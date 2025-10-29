@@ -209,6 +209,72 @@ Cloud architects design and oversee cloud infrastructure solutions. As Indonesia
 - Security and compliance
 - Migration strategies
 
+### AI Engineer
+
+AI Engineers represent one of the most recent and rapidly growing specializations in software engineering. Unlike traditional ML engineers who focus on model deployment, AI engineers work with cutting-edge generative AI, large language models (LLMs), and AI-powered applications. This field has exploded with the rise of ChatGPT, GPT-4, and similar technologies.
+
+**Key Skills:**
+- Large Language Models (LLMs) and prompt engineering
+- AI APIs and services (OpenAI, Anthropic, Google AI)
+- Vector databases and embeddings
+- RAG (Retrieval-Augmented Generation) systems
+- Fine-tuning and model adaptation
+- AI safety and ethics
+- LangChain, LlamaIndex, and similar frameworks
+
+**Career Progression:**
+AI Engineer → Senior AI Engineer → AI Tech Lead → Head of AI/AI Architect
+
+**Indonesian Context:**
+While still emerging in Indonesia, AI engineering opportunities are growing rapidly as companies integrate AI into their products. Companies like Gojek and Tokopedia are exploring AI applications, and startups focused on AI solutions are beginning to emerge.
+
+### Autonomous Vehicle Engineer
+
+Autonomous Vehicle Engineers, also known as Self-Driving Car Engineers, work on the complex systems that enable vehicles to navigate and operate without human intervention. This field combines software engineering with robotics, computer vision, and control systems.
+
+**Key Skills:**
+- Computer vision and sensor fusion
+- Path planning and navigation algorithms
+- Deep learning for perception
+- Robotics Operating System (ROS)
+- Real-time systems programming
+- Safety-critical software development
+- Simulation environments (CARLA, Gazebo)
+- C++ and Python
+
+**Career Progression:**
+Autonomous Systems Engineer → Senior Autonomous Vehicle Engineer → Autonomy Tech Lead → Principal Engineer/Engineering Manager
+
+**Indonesian Context:**
+While large-scale autonomous vehicle development is limited in Indonesia, opportunities exist in research institutions, automotive companies establishing R&D centers, and startups working on autonomous delivery robots or logistics automation. Companies like Gojek have shown interest in autonomous delivery technologies.
+
+### Drone and UAV Engineer
+
+Drone Engineers (also known as UAV - Unmanned Aerial Vehicle Engineers) develop software for flying vehicles, from consumer drones to commercial delivery systems. This emerging field is sometimes referred to as "flying car engineering" as it extends to urban air mobility solutions.
+
+**Key Skills:**
+- Flight control systems and autopilot software
+- Computer vision for obstacle avoidance
+- Embedded systems programming
+- ArduPilot, PX4, and drone frameworks
+- GPS and sensor integration
+- Real-time systems
+- Regulatory compliance (aviation standards)
+- C/C++ and Python
+
+**Career Progression:**
+Drone Software Engineer → Senior UAV Engineer → Robotics/Autonomy Tech Lead → Principal Engineer
+
+**Indonesian Context:**
+Indonesia has growing opportunities in drone technology, particularly for:
+- Agricultural monitoring and precision farming
+- Infrastructure inspection (power lines, bridges)
+- Delivery services in challenging terrain (archipelago logistics)
+- Disaster response and mapping
+- Aerial photography and surveying
+
+Several Indonesian startups and companies are exploring drone applications, making this an exciting emerging field for engineers interested in aviation and robotics.
+
 ## How to Choose Your Path
 
 Choosing a career path can feel overwhelming, but remember: your first choice doesn't have to be your final destination. Here are some strategies to help you decide:
