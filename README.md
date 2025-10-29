@@ -22,7 +22,7 @@ The book is organized into the following sections:
 
 | # | Chapter | Description | Status |
 |---|---------|-------------|--------|
-| 0 | **The Software Engineering Career Path** | Explore various career paths for software engineers | 📝 Draft |
+| 0 | **The Software Engineering Career Path** | Explore various career paths for software engineers | ✅ Complete |
 | 1 | **The Value of Internship** | Understanding the importance of internships and how to maximize them | 📝 Draft |
 | 2 | **Part-time Job and Side Projects** | Building real-world experience through alternative opportunities | 📝 Draft |
 | 3 | **Corporate vs. Startup** | Weighing the trade-offs between different work environments | 📝 Draft |
