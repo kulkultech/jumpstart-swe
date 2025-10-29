@@ -24,6 +24,16 @@ The book content is organized in the `book/` directory:
 
 Each chapter is in its own markdown file, making it easier to work on individual chapters without conflicts.
 
+## Chapter Status
+
+Before working on a chapter, please check the README.md for the current status of each chapter:
+
+- **📝 Draft** - Chapter has initial content/notes and is actively being worked on
+- **📋 Planned** - Chapter structure exists but content needs to be written (available for contribution)
+- **✅ Complete** - Chapter is fully written and reviewed
+
+If you plan to work on a chapter, please create an issue or comment on an existing one to let others know the chapter is in progress.
+
 ## Editing Content
 
 To edit a chapter:

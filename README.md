@@ -20,18 +20,25 @@ The book is organized into the following sections:
 
 ### Chapters
 
-0. **The Software Engineering Career Path** - Explore various career paths for software engineers
-1. **The Value of Internship** - Understanding the importance of internships and how to maximize them
-2. **Part-time Job and Side Projects** - Building real-world experience through alternative opportunities
-3. **Corporate vs. Startup** - Weighing the trade-offs between different work environments
-4. **Shortcut to Your Dream Job** - Strategies for landing your ideal position
-5. **Find Your Champion** - Building relationships with advocates in your target companies
-6. **Weighing Job Offers** - How to evaluate and compare job opportunities
-7. **The 1st Year** - Making the most of your first year in a new role
-8. **The 2nd Year and Beyond** - Continuing your growth and development
-9. **Brand Yourself** - Building your professional reputation and presence
-10. **Don't Forget to Be Happy** - Maintaining work-life balance and well-being
-11. **Master the Art of Communication** - Essential communication skills for career success
+| # | Chapter | Description | Status |
+|---|---------|-------------|--------|
+| 0 | **The Software Engineering Career Path** | Explore various career paths for software engineers | 📝 Draft |
+| 1 | **The Value of Internship** | Understanding the importance of internships and how to maximize them | 📝 Draft |
+| 2 | **Part-time Job and Side Projects** | Building real-world experience through alternative opportunities | 📝 Draft |
+| 3 | **Corporate vs. Startup** | Weighing the trade-offs between different work environments | 📝 Draft |
+| 4 | **Shortcut to Your Dream Job** | Strategies for landing your ideal position | 📝 Draft |
+| 5 | **Find Your Champion** | Building relationships with advocates in your target companies | 📝 Draft |
+| 6 | **Weighing Job Offers** | How to evaluate and compare job opportunities | 📋 Planned |
+| 7 | **The 1st Year** | Making the most of your first year in a new role | 📋 Planned |
+| 8 | **The 2nd Year and Beyond** | Continuing your growth and development | 📋 Planned |
+| 9 | **Brand Yourself** | Building your professional reputation and presence | 📝 Draft |
+| 10 | **Don't Forget to Be Happy** | Maintaining work-life balance and well-being | 📋 Planned |
+| 11 | **Master the Art of Communication** | Essential communication skills for career success | 📋 Planned |
+
+**Status Legend:**
+- 📝 **Draft** - Chapter has initial content/notes and is in progress
+- 📋 **Planned** - Chapter structure exists but content needs to be written
+- ✅ **Complete** - Chapter is fully written and reviewed
 
 ## Repository Structure
 
