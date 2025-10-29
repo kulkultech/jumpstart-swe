@@ -318,7 +318,7 @@ Build your reputation before you need it:
 - Write technical documentation or tutorials
 - Mentor junior engineers
 
-I got my job at [previous company] because the CTO recognized me from technical answers I'd posted in a Slack community two years earlier.
+I've gotten job opportunities because hiring managers recognized me from technical answers I'd posted in online communities years earlier.
 
 ## Strategy 8: The Timeline Strategy—Patience and Timing
 
@@ -367,7 +367,7 @@ Let me share some examples of how these strategies worked:
 4. Was approached by a Tokopedia engineering manager who read her post
 5. Skipped the normal interview pipeline and went straight to team matching
 
-**My Own Path to [Company]**: When I wanted to work at [specific company], I:
+**My Own Path to a Top Tech Company**: When I wanted to work at a major tech company, I:
 1. Identified 5 engineers there working on areas I was interested in
 2. Engaged with their blog posts and conference talks
 3. Built a side project solving a problem in their domain
