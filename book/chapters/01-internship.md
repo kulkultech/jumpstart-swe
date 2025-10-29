@@ -39,7 +39,7 @@ Internships allow you to explore different aspects of software engineering witho
 
 ### Opening Doors to Full-Time Opportunities
 
-Many companies use internship programs as their primary pipeline for full-time hires. Statistics show that:
+Many companies use internship programs as their primary pipeline for full-time hires. Industry observations show that:
 
 - Interns often receive return offers with higher success rates than external candidates
 - Companies invest heavily in intern programs because they can evaluate talent over several months
@@ -193,7 +193,7 @@ Start by targeting:
 
 Send a brief, respectful message:
 
-```
+```text
 Hi [Name],
 
 I'm [Your Name], a summer intern on the [Team Name] team working on [Brief Project Description]. I've been really impressed by [specific work they've done or contribution you noticed], and I'd love to learn from your experience.
