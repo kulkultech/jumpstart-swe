@@ -6,61 +6,72 @@
 
 A small, yet impactful e-book on jumpstart your software engineering career. Dedicated to rising talent in Indonesia.
 
-# Foreword by Someone
+## About This Book
 
-An awesome foreword here.
+This book aims to help aspiring software engineers in Indonesia accelerate their careers by sharing insights, tips, and strategies that the author wishes they had known earlier in their career.
 
-# Preface
+## Book Structure
 
-## Why this book created
+The book is organized into the following sections:
 
-Let me start with a story. When I was in college, I have no idea what life after college looks like. For example, I never plan for an internship, in fact I don't know what is an internship in the first place until I saw all my friends going to internship at a reputable company except me that goes only to laboratory for an internship. At that time, I think there's no different until I accepted at Microsoft Indonesia for a 3-months internship. Yes, it is so much different! We'll discuss more the different the first chapter when I discuss importance of internship.
+### Front Matter
+- **Foreword** - An introduction by a guest contributor
+- **Preface** - Why this book was created and how to use it
 
-Similar to what I experienced with internship, I want discuss everything I wish I know when I was in college or in high-school to bootstrap my career in software engineering and in general. If I knew what I'll discuss here, I'll be a dozen years ahead. I consider myself already few years ahead of my peers, but having more speed and power in your career is always good things. In this book we'll discuss basic principle (the why), technical tips & tricks (the how), and what are the things you can do (the what) to accelerate your career in Software Engineering field, especially for the audience in Indonesia.
+### Chapters
 
-## How to use this book
+| # | Chapter | Description | Status |
+|---|---------|-------------|--------|
+| 0 | **The Software Engineering Career Path** | Explore various career paths for software engineers | 📝 Draft |
+| 1 | **The Value of Internship** | Understanding the importance of internships and how to maximize them | 📝 Draft |
+| 2 | **Part-time Job and Side Projects** | Building real-world experience through alternative opportunities | 📝 Draft |
+| 3 | **Corporate vs. Startup** | Weighing the trade-offs between different work environments | 📝 Draft |
+| 4 | **Shortcut to Your Dream Job** | Strategies for landing your ideal position | 📝 Draft |
+| 5 | **Find Your Champion** | Building relationships with advocates in your target companies | 📝 Draft |
+| 6 | **Weighing Job Offers** | How to evaluate and compare job opportunities | 📋 Planned |
+| 7 | **The 1st Year** | Making the most of your first year in a new role | 📋 Planned |
+| 8 | **The 2nd Year and Beyond** | Continuing your growth and development | 📋 Planned |
+| 9 | **Brand Yourself** | Building your professional reputation and presence | 📝 Draft |
+| 10 | **Don't Forget to Be Happy** | Maintaining work-life balance and well-being | 📋 Planned |
+| 11 | **Master the Art of Communication** | Essential communication skills for career success | 📋 Planned |
 
-I design this book to be long enough to cover things to jumpstart your career, and short enough to encourage you to finish the book and apply it in your career. Contact us at [support@kulkul.tech](mailto:support@kulkul.tech) for critics and suggestions.
+**Status Legend:**
+- 📝 **Draft** - Chapter has initial content/notes and is in progress
+- 📋 **Planned** - Chapter structure exists but content needs to be written
+- ✅ **Complete** - Chapter is fully written and reviewed
 
-# Chapter #0: The Software Engineering Career Path
+## Repository Structure
 
-In this modern era, there are various different paths for aspiring software engineer. From developing firmware for electric car system, to build software on the internet or analyzing genomic data.
+```
+jumpstart-swe/
+├── book/
+│   ├── front-matter/
+│   │   ├── foreword.md
+│   │   └── preface.md
+│   └── chapters/
+│       ├── 00-career-path.md
+│       ├── 01-internship.md
+│       ├── 02-part-time-and-side-projects.md
+│       ├── 03-corporate-vs-startup.md
+│       ├── 04-dream-job-shortcut.md
+│       ├── 05-find-champion.md
+│       ├── 06-weighing-job-offer.md
+│       ├── 07-first-year.md
+│       ├── 08-second-year-and-beyond.md
+│       ├── 09-brand-yourself.md
+│       ├── 10-be-happy.md
+│       └── 11-communication.md
+├── cover.png
+├── build.sh
+├── Makefile
+└── README.md
+```
 
-- In this chapter I want to explore the career path that someone with coding background can take depending on their aspirations.
+## Contributing
 
-# Chapter #1: The value of internship
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
 
-What I want to say here:
+## Contact
 
-- I want to share how important it is to get an internship. Whether you're planning to be successful at your dream company or you want to create your own company, landing internship and how to get the most out of it would be very important to shape your career.
-- One of the internship-hack I've done is doing a lot of 1-1 with senior member of the company. Even though you're only an intern, having 1-1 with senior member means you create connection with them as well as learn from their experience.
+For questions, suggestions, or feedback, please contact us at [support@kulkul.tech](mailto:support@kulkul.tech).
 
-# Chapter #2: Part-time job and side project
-
-- Sometime in college student want to get real-world experience, but they just about to graduate and it's not possible to get internship. In that case what I can give advice to my mentee is to take a part-time job or a side project. This kind of opportunity can help you build experience.
-
-# Chapter #3: Corporate vs. Startup
-
-- In 2010 Indonesia has started an e-commerce revolution where many e-commerce company and tech-based company rised. Tokopedia, Go-Jek and Traveloka was founded in this era. Since then a lot of tech job attracts graduate, and graduate now not only attracted multi-national company but also consider startup as their options to build their career. In this chapter we want to discuss the pro and cons and help the reader think this career options as a set of trade-offs they need to consider on building their career intentionally.
-
-# Chapter #4: Shortcut to your dream job
-
-- In this chapter I want to discuss small little secret of mine to help me get the job I want in my career.
-
-# Chapter #5: Find your champion
-
-- In this chapter I want to discuss with the reader how to get a champion in the company you want to join.
-
-# Chapter #6: Weighing job offer
-
-# Chapter #7: The 1st year
-
-# Chapter #8: The 2nd year and beyond
-
-# Chapter #9: Brand yourself
-
-## Speaking at Conferences
-
-# Chapter #10: Don't forget to be happy
-
-# Chapter #11: Master the art of communication
