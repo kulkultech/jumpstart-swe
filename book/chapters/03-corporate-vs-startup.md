@@ -60,9 +60,9 @@ This balance allows you to maintain hobbies, spend time with family, and avoid b
 Large companies typically provide comprehensive compensation packages:
 - **Competitive base salaries**: Often higher than early-stage startups
 - **Performance bonuses**: Annual or quarterly bonuses based on performance
-- **Stock options or RSUs**: Equity in publicly traded companies that can be sold
-- **Health insurance**: Comprehensive medical, dental, and vision coverage
-- **Retirement benefits**: Pension plans or 401(k) matching
+- **Stock options or RSUs (Restricted Stock Units)**: Equity in publicly traded companies that can be sold for real money
+- **Health insurance**: Comprehensive medical, dental, and vision coverage (BPJS Kesehatan plus private insurance)
+- **Retirement benefits**: Pension plans, BPJS Ketenagakerjaan, or (for US companies) 401(k) matching
 - **Perks**: Gym memberships, meal allowances, transportation benefits
 
 These benefits provide financial security and peace of mind.
