@@ -297,7 +297,7 @@ Even in personal projects, maintain professional standards:
 
 Taking on too much leads to:
 - Poor academic performance
-- Burnt out and decreased passion
+- Burnout and decreased passion
 - Half-finished projects that don't strengthen your portfolio
 - Damaged relationships with clients or employers
 
