@@ -76,21 +76,21 @@ When most engineers compare offers, they look at base salary and stop there. Thi
 Let me show you how to calculate true total compensation with a real example:
 
 **Offer A: Indonesian Startup**
-- Base: Rp 180,000,000/year
-- Bonus: 20% target (assume 15% actual based on company track record)
-- Stock options: 0.1% of company (valued at current round at Rp 50,000,000 over 4 years)
-- Benefits: Basic health insurance (Rp 5,000,000 value)
-- Remote work: 3 days/week (saves Rp 5,000,000 in commute/food)
+- Base: Rp 180M/year
+- Bonus: 20% target (assume 15% actual based on company track record): Rp 27M
+- Stock options: 0.1% of company (valued at current round at Rp 50M over 4 years): Rp 12.5M
+- Benefits: Basic health insurance (Rp 5M value)
+- Remote work: 3 days/week (saves Rp 5M in commute/food)
 
 **Total Year 1 Value:** Rp 180M + Rp 27M + Rp 12.5M + Rp 5M + Rp 5M = **Rp 229.5M**
 
 **Offer B: Established Tech Company**
-- Base: Rp 200,000,000/year
-- Bonus: 15% target (assume 12% actual)
+- Base: Rp 200M/year
+- Bonus: 15% target (assume 12% actual): Rp 24M
 - No equity
-- Benefits: Comprehensive health + life insurance (Rp 10,000,000 value)
-- Professional development: Rp 10,000,000/year
-- Full remote: (saves Rp 10,000,000)
+- Benefits: Comprehensive health + life insurance (Rp 10M value)
+- Professional development: Rp 10M/year
+- Full remote: (saves Rp 10M in commute/food)
 
 **Total Year 1 Value:** Rp 200M + Rp 24M + Rp 0 + Rp 10M + Rp 10M + Rp 10M = **Rp 254M**
 
@@ -126,7 +126,7 @@ These are much simpler—they're real money on a vesting schedule. If Google off
 
 ### The Indonesian Context: Salary Expectations
 
-Let's be real about Indonesian tech salary ranges (as of 2024):
+Let's be real about Indonesian tech salary ranges (approximate figures for 2024, can vary significantly based on specific skills, company stage, and market conditions):
 
 **Fresh Graduate (0-1 year):**
 - Startup: Rp 8M - 15M/month
@@ -256,7 +256,7 @@ This deserves special attention. Having good mentors can 5x your growth rate.
 
 **Green flag:** During interviews, senior engineers talk about mentoring as part of their role. You meet your potential mentor and get good vibes.
 
-**At Gojek, I had a senior engineer who spent 2 hours/week pair programming with me in my first six months. That experience taught me more than a year of struggling alone would have.**
+Having a senior engineer who dedicates time to pair programming and mentorship can accelerate your learning dramatically—turning what might take a year of solo struggling into six months of focused growth.
 
 ### The Career Ladder Clarity
 
@@ -784,9 +784,9 @@ Don't be swayed by perks that don't matter. Focus on what advances your goals.
 
 ### Mistake #7: Comparing Offers Without Adjusting for Context
 
-"Company A pays $80K USD remote, Company B pays Rp 240M annually."
+"Company A pays $80K USD remote, Company B pays Rp 1.2B annually."
 
-At first glance, these seem similar (roughly Rp 1.2B annually at $1=Rp 15K exchange rate). But:
+At first glance, these seem similar (both roughly Rp 1.2B annually at $1=Rp 15K exchange rate). But:
 
 - $80K remote from US company often has better benefits, equity, and career growth
 - Living costs in Jakarta vs. working remote from Bandung are different
@@ -888,7 +888,7 @@ Keep those bridges intact. Tech industry is small. That hiring manager might be 
 - Learn about the company and product deeply
 - Refresh relevant technical skills
 - Set personal goals for your first 90 days
-- Read my Chapter 7 on maximizing your first year
+- Read Chapter 7 on maximizing your first year
 - Get rest—you'll hit the ground running
 
 ### Set Up Success Metrics
