@@ -345,7 +345,7 @@ If English is not your first language and you're working with native English spe
 - Follow up in writing to confirm understanding
 - Use simpler words yourself—clear communication beats fancy vocabulary
 
-**Cultural tip:** When working with international teams, be explicit about Indonesian holidays and working hours. Don't assume others know when Ramadan is or that work schedules might shift during lebaran. Over-communicate cultural context.
+**Cultural tip:** When working with international teams, be explicit about Indonesian holidays and working hours. Don't assume others know when Ramadan is or that work schedules might shift during Lebaran. Over-communicate cultural context.
 
 ## Communicating with Non-Technical Stakeholders
 
