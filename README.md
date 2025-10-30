@@ -26,10 +26,10 @@ The book is organized into the following sections:
 | 1 | **The Value of Internship** | Understanding the importance of internships and how to maximize them | 📝 Draft |
 | 2 | **Part-time Job and Side Projects** | Building real-world experience through alternative opportunities | 📝 Draft |
 | 3 | **Corporate vs. Startup** | Weighing the trade-offs between different work environments | 📝 Draft |
-| 4 | **Shortcut to Your Dream Job** | Strategies for landing your ideal position | 📝 Draft |
+| 4 | **Shortcut to Your Dream Job** | Strategies for landing your ideal position | ✅ Complete |
 | 5 | **Find Your Champion** | Building relationships with advocates in your target companies | 📝 Draft |
 | 6 | **Weighing Job Offers** | How to evaluate and compare job opportunities | 📋 Planned |
-| 7 | **The 1st Year** | Making the most of your first year in a new role | 📋 Planned |
+| 7 | **The 1st Year** | Making the most of your first year in a new role | ✅ Complete |
 | 8 | **The 2nd Year and Beyond** | Continuing your growth and development | ✅ Complete |
 | 9 | **Brand Yourself** | Building your professional reputation and presence | 📝 Draft |
 | 10 | **Don't Forget to Be Happy** | Maintaining work-life balance and well-being | 📋 Planned |
@@ -66,6 +66,24 @@ jumpstart-swe/
 ├── Makefile
 └── README.md
 ```
+
+## Download the Book
+
+You can download the latest version of the book in EPUB format:
+
+### Latest Pre-release Build
+The book is automatically built on every commit to the master branch. Download the latest pre-release version from:
+- [Latest Release (Pre-release)](https://github.com/kulkultech/jumpstart-swe/releases/tag/latest) - Contains the most recent build
+
+### Workflow Artifacts
+For each commit and pull request, the book is built and stored as a workflow artifact:
+1. Go to the [Actions tab](https://github.com/kulkultech/jumpstart-swe/actions)
+2. Click on the latest successful workflow run
+3. Download the `jumpstart-swe-epub` artifact from the Artifacts section
+
+### Tagged Releases
+Stable releases are available when version tags are created:
+- [All Releases](https://github.com/kulkultech/jumpstart-swe/releases)
 
 ## Contributing
 
