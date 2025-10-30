@@ -219,6 +219,8 @@ Now let's put this into action with a concrete plan.
 - Tech in Asia Indonesia Community
 - Company-specific communities (e.g., "Gojek Tech Community")
 
+*Note: Community names and platforms evolve. Search for "Indonesia tech community," "Jakarta developer meetup," or "[company name] community" to find current active groups.*
+
 ### Month 2: Build Relationships
 
 **The Coffee Chat Campaign**
@@ -361,9 +363,7 @@ Finding champions in Indonesia has unique dynamics shaped by local culture:
 
 ### Relationships Matter More
 
-Indonesian business culture values personal relationships heavily. The concept of "orang dalam" (inside person) is real and powerful. This actually works to your advantage if you approach it correctly.
-
-**But:** It has to be genuine. Indonesians are good at spotting transactional relationship-building. Focus on real connections.
+Indonesian business culture values personal relationships heavily. The concept of "orang dalam" (inside person) is real and powerful. This actually works to your advantage if you approach it correctly—but only with authentic connections. Indonesians are particularly good at spotting transactional relationship-building, so focus on building real, long-term connections.
 
 ### University Alumni Networks Are Gold
 
