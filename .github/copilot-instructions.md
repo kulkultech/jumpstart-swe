@@ -67,6 +67,17 @@ Follow the style guidelines detailed in AGENTS.md.
 
 ### Technical Guidelines
 
+**Git Workflow:**
+
+**IMPORTANT: When working with git branches and updates:**
+- **DO NOT use `git rebase`** - Copilot agents don't work well with rebase operations
+- **USE `git merge` or `git merge --ff` instead** - Use merge or fast-forward merge to integrate changes
+- When updating your branch with changes from the main branch, use:
+  - `git merge origin/main` (creates a merge commit)
+  - `git merge --ff origin/main` (fast-forward if possible)
+- Avoid rebase to prevent messing up commits and diffs
+- This ensures commit history remains clear and conflicts are easier to resolve
+
 **Building the Book:**
 ```bash
 make        # Generate the epub file
