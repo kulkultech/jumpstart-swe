@@ -459,7 +459,7 @@ After mentoring dozens of engineers through this path, I've seen these mistakes 
 
 **Pitfall 1: Undervaluing Your Work**
 
-Charging ₹50,000 for a full e-commerce website isn't hustle—it's being taken advantage of. Know your worth. Research market rates, even for junior developers.
+Charging Rp 500,000 for a full e-commerce website isn't hustle—it's being taken advantage of. Know your worth. Research market rates, even for junior developers.
 
 **Pitfall 2: Taking Every Opportunity**
 
