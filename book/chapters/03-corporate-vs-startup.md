@@ -33,7 +33,7 @@ Everything changed in the 2010s. Several factors converged:
 - Venture capital discovered Southeast Asia
 - A new generation of Indonesian entrepreneurs returned from studying/working abroad
 
-Tokopedia was founded in 2009. Gojek started as a call center in 2010 before becoming an app in 2015. Traveloka launched in 2012. Bukalapak, Sale Stock, and dozens of other startups followed. By the mid-2010s, Indonesia had its first unicorns—startups valued at over $1 billion.
+Tokopedia was founded in 2009. Gojek started as a call center in 2010 before becoming an app in 2015. Traveloka launched in 2012. Bukalapak, SaleStock, and dozens of other startups followed. By the mid-2010s, Indonesia had its first unicorns—startups valued at over $1 billion.
 
 Suddenly, working at a startup wasn't career suicide. It was an adventure, a chance to build something from scratch, to grow with a company, potentially to get rich from stock options.
 
