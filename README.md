@@ -26,7 +26,7 @@ The book is organized into the following sections:
 | 1 | **The Value of Internship** | Understanding the importance of internships and how to maximize them | 📝 Draft |
 | 2 | **Part-time Job and Side Projects** | Building real-world experience through alternative opportunities | 📝 Draft |
 | 3 | **Corporate vs. Startup** | Weighing the trade-offs between different work environments | 📝 Draft |
-| 4 | **Shortcut to Your Dream Job** | Strategies for landing your ideal position | 📝 Draft |
+| 4 | **Shortcut to Your Dream Job** | Strategies for landing your ideal position | ✅ Complete |
 | 5 | **Find Your Champion** | Building relationships with advocates in your target companies | 📝 Draft |
 | 6 | **Weighing Job Offers** | How to evaluate and compare job opportunities | 📋 Planned |
 | 7 | **The 1st Year** | Making the most of your first year in a new role | 📋 Planned |
