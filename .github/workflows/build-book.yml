@@ -57,7 +57,7 @@ jobs:
         with:
           files: jumpstart-swe.epub
           draft: false
-          prerelease: true
+          prerelease: false
           generate_release_notes: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
