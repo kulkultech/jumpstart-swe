@@ -67,6 +67,24 @@ jumpstart-swe/
 └── README.md
 ```
 
+## Download the Book
+
+You can download the latest version of the book in EPUB format:
+
+### Latest Pre-release Build
+The book is automatically built on every commit to the main branch. Download the latest pre-release version from:
+- [Latest Release (Pre-release)](https://github.com/kulkultech/jumpstart-swe/releases/tag/latest) - Contains the most recent build
+
+### Workflow Artifacts
+For each commit and pull request, the book is built and stored as a workflow artifact:
+1. Go to the [Actions tab](https://github.com/kulkultech/jumpstart-swe/actions)
+2. Click on the latest successful workflow run
+3. Download the `jumpstart-swe-epub` artifact from the Artifacts section
+
+### Tagged Releases
+Stable releases are available when version tags are created:
+- [All Releases](https://github.com/kulkultech/jumpstart-swe/releases)
+
 ## Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.

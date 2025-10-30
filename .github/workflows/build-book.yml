@@ -1,0 +1,95 @@
+name: Build and Release Book
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v*'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+      
+      - name: Build EPUB
+        run: make
+      
+      - name: Upload EPUB artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: jumpstart-swe-epub
+          path: jumpstart-swe.epub
+          retention-days: 90
+  
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/v')
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download EPUB artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: jumpstart-swe-epub
+      
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: jumpstart-swe.epub
+          draft: false
+          prerelease: true
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+  pre-release:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download EPUB artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: jumpstart-swe-epub
+      
+      - name: Generate build timestamp
+        id: timestamp
+        run: echo "timestamp=$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
+      
+      - name: Create or Update Pre-Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: jumpstart-swe.epub
+          tag_name: latest
+          name: "Latest Build (Pre-release)"
+          body: |
+            This is an automated pre-release build from the latest commit on main branch.
+            
+            **Commit:** ${{ github.sha }}
+            **Build Time:** ${{ steps.timestamp.outputs.timestamp }}
+            
+            Download the `jumpstart-swe.epub` file below to read the latest version of the book.
+          draft: false
+          prerelease: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
