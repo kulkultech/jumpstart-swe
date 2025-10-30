@@ -33,7 +33,7 @@ The book is organized into the following sections:
 | 8 | **The 2nd Year and Beyond** | Continuing your growth and development | ✅ Complete |
 | 9 | **Brand Yourself** | Building your professional reputation and presence | ✅ Complete |
 | 10 | **Don't Forget to Be Happy** | Maintaining work-life balance and well-being | ✅ Complete |
-| 11 | **Master the Art of Communication** | Essential communication skills for career success | 📋 Planned |
+| 11 | **Master the Art of Communication** | Essential communication skills for career success | ✅ Complete |
 
 **Status Legend:**
 - 📝 **Draft** - Chapter has initial content/notes and is in progress
