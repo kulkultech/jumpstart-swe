@@ -23,12 +23,12 @@ These aren't things you learn in university courses or coding bootcamps. These a
 
 ### The Numbers Don't Lie
 
-Let me share some data from my years in hiring:
+Let me share some observations from my years in hiring and data from various tech companies in Indonesia:
 
 **At major Indonesian tech companies:**
-- 60-70% of new grad hires come from their internship programs
-- Interns who convert to full-time roles ramp up 3-4x faster than external hires
-- Starting salaries for former interns average 15-20% higher than those without internship experience
+- 60-70% of new grad hires typically come from their internship programs
+- Interns who convert to full-time roles tend to ramp up 3-4x faster than external hires
+- Starting salaries for former interns often average 15-20% higher than those without internship experience
 
 **Why?** Because internships eliminate risk. Companies know what they're getting. You've already proven you can work in their codebase, with their team, in their culture.
 
@@ -154,7 +154,7 @@ I've seen this work particularly well with companies like Tokopedia and Travelok
 **Strategy 4: The Project That Gets You Noticed**
 Build something impressive that solves a real problem in the domain of your target company:
 - Interested in Gojek? Build a delivery route optimization tool
-- Want to work at a fintech? Create an expense tracking app with interesting insights
+- Want to work at a financial technology company? Create an expense tracking app with interesting insights
 - Targeting e-commerce? Build a price comparison or inventory management tool
 
 Share it on GitHub, write about it on Medium or Dev.to, and tag engineers from your target companies when you post on LinkedIn or Twitter. Great projects get noticed.
@@ -578,7 +578,7 @@ Series A-C startups often have less structured intern programs but can offer:
 - Potential for full-time roles in rapid growth phase
 - Opportunity to make significant impact
 
-**How to find them:** Check TechInAsia, DailySocial, or AngelList for Indonesian startups that recently raised funding.
+**How to find them:** Check tech news sites like TechInAsia, DailySocial, TechCrunch (for Indonesian startups), or startup databases like Crunchbase and AngelList for Indonesian startups that recently raised funding. LinkedIn and local tech communities are also great sources.
 
 ## Action Plan: Your Internship Roadmap
 
