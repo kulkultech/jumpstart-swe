@@ -28,7 +28,7 @@ The book is organized into the following sections:
 | 3 | **Corporate vs. Startup** | Weighing the trade-offs between different work environments | ✅ Complete |
 | 4 | **Shortcut to Your Dream Job** | Strategies for landing your ideal position | ✅ Complete |
 | 5 | **Find Your Champion** | Building relationships with advocates in your target companies | ✅ Complete |
-| 6 | **Weighing Job Offers** | How to evaluate and compare job opportunities | 📋 Planned |
+| 6 | **Weighing Job Offers** | How to evaluate and compare job opportunities | ✅ Complete |
 | 7 | **The 1st Year** | Making the most of your first year in a new role | ✅ Complete |
 | 8 | **The 2nd Year and Beyond** | Continuing your growth and development | 📋 Planned |
 | 9 | **Brand Yourself** | Building your professional reputation and presence | 📝 Draft |
