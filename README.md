@@ -72,7 +72,7 @@ jumpstart-swe/
 You can download the latest version of the book in EPUB format:
 
 ### Latest Pre-release Build
-The book is automatically built on every commit to the main branch. Download the latest pre-release version from:
+The book is automatically built on every commit to the master branch. Download the latest pre-release version from:
 - [Latest Release (Pre-release)](https://github.com/kulkultech/jumpstart-swe/releases/tag/latest) - Contains the most recent build
 
 ### Workflow Artifacts

@@ -3,12 +3,12 @@ name: Build and Release Book
 on:
   push:
     branches:
-      - main
+      - master
     tags:
       - 'v*'
   pull_request:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
@@ -65,7 +65,7 @@ jobs:
   pre-release:
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    if: github.ref == 'refs/heads/master' && github.event_name == 'push'
     permissions:
       contents: write
 
@@ -90,7 +90,7 @@ jobs:
           name: "Latest Build (Pre-release)"
           body: |
             This is an automated pre-release build from the latest commit
-            on main branch.
+            on master branch.
 
             **Commit:** ${{ github.sha }}
             **Build Time:** ${{ steps.timestamp.outputs.timestamp }}
