@@ -30,7 +30,7 @@ The book is organized into the following sections:
 | 5 | **Find Your Champion** | Building relationships with advocates in your target companies | 📝 Draft |
 | 6 | **Weighing Job Offers** | How to evaluate and compare job opportunities | 📋 Planned |
 | 7 | **The 1st Year** | Making the most of your first year in a new role | ✅ Complete |
-| 8 | **The 2nd Year and Beyond** | Continuing your growth and development | 📋 Planned |
+| 8 | **The 2nd Year and Beyond** | Continuing your growth and development | ✅ Complete |
 | 9 | **Brand Yourself** | Building your professional reputation and presence | 📝 Draft |
 | 10 | **Don't Forget to Be Happy** | Maintaining work-life balance and well-being | ✅ Complete |
 | 11 | **Master the Art of Communication** | Essential communication skills for career success | 📋 Planned |
