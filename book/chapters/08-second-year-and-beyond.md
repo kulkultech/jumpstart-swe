@@ -408,11 +408,13 @@ Research thoroughly:
 - Talk to recruiters about market rates
 - Compare total compensation (base + bonus + equity + benefits)
 
-**Indonesian salary context (2024 ballpark figures):**
+**Indonesian salary context (2024 ballpark figures - always verify current rates):**
 - Mid-level engineer (2-4 years) at top startups: Rp 20-40 juta/month
 - Mid-level at international companies (remote): $30k-70k USD/year ($2.5k-6k/month)
 - Mid-level at traditional corporations: Rp 15-30 juta/month
 - Equity can add 20-50% to total compensation at startups
+
+**Note:** Salary ranges change quickly. Always research current market rates using Levels.fyi, Glassdoor, local recruiters, and Indonesian tech communities. These figures are meant as rough guidelines, not definitive benchmarks.
 
 **Remember:** Jakarta salaries are highest, but regional Indonesian cities are growing. Remote opportunities with international companies can 2-3x your earning potential.
 
@@ -562,7 +564,13 @@ Technology changes fast. Your learning needs to keep pace.
 - Online platforms: Coursera, Udemy, Frontend Masters, Egghead
 - Books: "Designing Data-Intensive Applications," "Clean Code," "The Pragmatic Programmer"
 - System design: System Design Primer (GitHub), Grokking the System Design Interview
-- Stay current: HackerNews, dev.to, Indonesian tech communities (DevDiscuss, Tech in Asia)
+- Stay current: HackerNews, dev.to
+- Indonesian tech communities: 
+  - Tech in Asia (techinasia.com) - news and insights about Southeast Asian tech
+  - Indonesian Slack communities (search "developer Indonesia" or "tech Indonesia" on various platforms)
+  - Jakarta meetup groups on Meetup.com (search "Jakarta tech," "Jakarta JavaScript," etc.)
+  - LinkedIn groups for Indonesian developers
+  - Local conference communities (DevFest Jakarta, TechTalks)
 
 ### Building Your Personal Brand
 
